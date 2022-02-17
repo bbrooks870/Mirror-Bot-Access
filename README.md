@@ -1,7 +1,7 @@
 # Mirror Bot Access 🔐
 Lets get your Access to Mirror-Bot's Cloud to easily access your requested Files from Google Drive itself.😊
 ## ⚙️ How to Get ?
-<h4><b> 1.First you have to join our Mirror Bot's Google Group! <a href=""> Join Now!</a></b></h4>
+<h4><b> 1.First you have to join our Mirror Bot's Google Group! <a href="https://bit.ly/Mirror-Bot"> Join Now!</a></b></h4>
 <h4><b> 2.To Join the Group just click the above given button "Join Now!" and click Join button on Google Group's Site.</b></h4>
 <h4><b> 3.After you join the Group, you will automatically get your access.</b></h4>
 <h3> 🗳️ Use Google Drive to access!</h3>
