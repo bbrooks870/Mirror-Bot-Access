@@ -17,5 +17,5 @@ Lets get your Access to Mirror-Bot's Cloud to easily access your requested Files
 <h4> <b>For IOS 📟: <a href="https://apps.apple.com/in/app/google-drive-online-backup/id507874739"> Download</a></b></h4>
 <h2>⛑Contact Us!</h2>
 <h4><b>Don't Forget to checkout my Official Website: <a href="https://www.caduceus.ml">Check Out!</a></b></h4>
-<h4>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a>
-<h4>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
+<h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
+<h4><b>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
