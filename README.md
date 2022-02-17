@@ -8,9 +8,9 @@ Lets get your Access to Mirror-Bot's Cloud to easily access your requested Files
 <h4><b> 1.After you joined the group! Now Go to "Google Drive" app for Android or IOS.</b></h4>
 <h4><b> 2.Or you can use Website to access Shared Drive on your PC or Laptop.</b></h4>
 <h4><b> 3.Now if you are using App, then Refresh it and click Shared Drive Tab Button as shown in the Image.</b></h4>
-<img src="Img/4.jpg" alt="1" width="20%" height="30%"> <!---Img already exist that's why--->
+<img src="Img/4.jpg" alt="1" width="100%" height="30%"> <!---Img already exist that's why--->
 <h4><b> 4.Or, If you are using Website from PC or Laptop, then click Shared Drive from Sub Menu.</b></h4>
-<img src="Img/5.png" alt="2" width="20%" height="30%"> <!---Img already exist that's why--->
+<img src="Img/5.png" alt="2" width="100%" height="30%"> <!---Img already exist that's why--->
 <h4><b> 5.After following steps, you will see that Shared Drive Named "Mirror Bot" open it.</b></h4>
 <h2> 📥 Download Google Drive</h2>
 <h4> <b>For Android 📱: <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs" alt="Download-for-Android"> Download</a></b></h4>
