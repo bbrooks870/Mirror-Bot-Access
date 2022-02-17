@@ -11,7 +11,7 @@ Lets get your Access to Mirror-Bot's Cloud to easily access your requested Files
 <img src="Img/4.jpg" alt="1" width="auto" height="10%"> <!---Img already exist that's why--->
 <h4><b> 4.Or, If you are using Website from PC or Laptop, then click Shared Drive from Sub Menu.</b></h4>
 <img src="Img/5.png" alt="2" width="auto" height="10%"> <!---Img already exist that's why--->
-<h4><b> 5.After following steps, you will see that Shared Drive Named "Mirror Bot" open it.</b></h4>
+<h4><b> 5.After following steps, you will see the Shared Drive Named "Mirror Bot" open it.</b></h4>
 <h2> 📥 Download Google Drive</h2>
 <h4> <b>For Android 📱: <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs" alt="Download-for-Android"> Download</a></b></h4>
 <h4> <b>For IOS 📟: <a href="https://apps.apple.com/in/app/google-drive-online-backup/id507874739"> Download</a></b></h4>
