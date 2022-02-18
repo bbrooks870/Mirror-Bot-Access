@@ -15,6 +15,9 @@ Lets get your Access to Mirror-Bot's Cloud to easily access your requested Files
 <h2> 📥 Download Google Drive</h2>
 <h4> <b>For Android 📱: <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs" alt="Download-for-Android"> Download</a></b></h4>
 <h4> <b>For IOS 📟: <a href="https://apps.apple.com/in/app/google-drive-online-backup/id507874739"> Download</a></b></h4>
+<h2> 🎯Points To Be Remembered🎯</h2>
+<h4><b>1.You can only access The Bot's Shared Drive from the account you have joined the Bot's Google Group.</b></h4>
+<h4><b>2.You will only see the "Join" button only until you join the group and not after you joined the Group.</b></h4>
 <h2>⛑Contact Us!</h2>
 <h4><b>Don't Forget to checkout my Official Website: <a href="https://www.caduceus.ml">Check Out!</a></b></h4>
 <h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
